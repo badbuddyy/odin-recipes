@@ -18,7 +18,13 @@ img:hover{
 h1{
     font-family: fantasy;
     font-size: 3em;
+    color: aliceblue;
     border-bottom: 4px solid;
     text-align: center;
+    
+}
+
+body{
+    background-color: black;
     
 }
